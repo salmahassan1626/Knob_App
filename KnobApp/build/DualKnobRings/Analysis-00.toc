@@ -1,5 +1,5 @@
-(['D:\\Software Engineering\\Fortec\\KnobApp\\DualKnobRings.py'],
- ['D:\\Software Engineering\\Fortec\\KnobApp'],
+(['D:\\Software Engineering\\Fortec\\Knob_App\\KnobApp\\DualKnobRings.py'],
+ ['D:\\Software Engineering\\Fortec\\Knob_App\\KnobApp'],
  [],
  [('C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\numpy\\_pyinstaller',
@@ -18,7 +18,8 @@
  0,
  [],
  [('FORTEC-Integrated_BG_4k.png',
-   'D:\\Software Engineering\\Fortec\\KnobApp\\FORTEC-Integrated_BG_4k.png',
+   'D:\\Software '
+   'Engineering\\Fortec\\Knob_App\\KnobApp\\FORTEC-Integrated_BG_4k.png',
    'DATA')],
  '3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit '
  '(AMD64)]',
@@ -35,7 +36,7 @@
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('DualKnobRings',
-   'D:\\Software Engineering\\Fortec\\KnobApp\\DualKnobRings.py',
+   'D:\\Software Engineering\\Fortec\\Knob_App\\KnobApp\\DualKnobRings.py',
    'PYSOURCE')],
  [('pkgutil',
    'C:\\Users\\Abdelrahman '
@@ -405,13 +406,13 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
    'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\Abdelrahman '
@@ -441,6 +442,26 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
    'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
@@ -449,65 +470,41 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
-   'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
    'C:\\Users\\Abdelrahman '
@@ -520,6 +517,10 @@
   ('PyQt5\\Qt5\\bin\\libEGL.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
    'C:\\Users\\Abdelrahman '
@@ -573,53 +574,53 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-locale-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
+   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-convert-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
@@ -633,17 +634,13 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
    'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
   ('api-ms-win-crt-utility-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
    'C:\\Users\\Abdelrahman '
@@ -653,6 +650,10 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
    'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
   ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
@@ -661,17 +662,17 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140_1.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
    'C:\\Users\\Abdelrahman '
@@ -705,98 +706,6 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-fibers-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-fibers-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-core-libraryloader-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
@@ -805,338 +714,447 @@
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY')],
  [],
  [],
  [('FORTEC-Integrated_BG_4k.png',
-   'D:\\Software Engineering\\Fortec\\KnobApp\\FORTEC-Integrated_BG_4k.png',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_he.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_de.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'D:\\Software '
+   'Engineering\\Fortec\\Knob_App\\KnobApp\\FORTEC-Integrated_BG_4k.png',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_es.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_da.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qt_ko.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
    'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
   ('PyQt5\\Qt5\\translations\\qt_en.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
    'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
   ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
    'DATA'),
   ('base_library.zip',
    'D:\\Software '
-   'Engineering\\Fortec\\KnobApp\\build\\DualKnobRings\\base_library.zip',
+   'Engineering\\Fortec\\Knob_App\\KnobApp\\build\\DualKnobRings\\base_library.zip',
    'DATA')],
- [('posixpath',
+ [('enum',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\posixpath.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\enum.py',
    'PYMODULE'),
-  ('sre_compile',
+  ('_weakrefset',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_compile.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\operator.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_weakrefset.py',
    'PYMODULE'),
   ('codecs',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\codecs.py',
    'PYMODULE'),
-  ('abc',
+  ('ntpath',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\abc.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_parse.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\heapq.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\types.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_compile.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\Abdelrahman '
@@ -1626,21 +1644,45 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('sre_parse',
+  ('reprlib',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_parse.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\reprlib.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\operator.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\re.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\traceback.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\locale.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\abc.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\Abdelrahman '
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\io.py',
    'PYMODULE'),
   ('copyreg',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copyreg.py',
    'PYMODULE'),
-  ('ntpath',
+  ('stat',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ntpath.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\genericpath.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stat.py',
    'PYMODULE'),
   ('collections.abc',
    'C:\\Users\\Abdelrahman '
@@ -1650,73 +1692,33 @@
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\collections\\__init__.py',
    'PYMODULE'),
-  ('_weakrefset',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_weakrefset.py',
-   'PYMODULE'),
   ('warnings',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\warnings.py',
    'PYMODULE'),
-  ('io',
+  ('genericpath',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\io.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\genericpath.py',
    'PYMODULE'),
   ('keyword',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\keyword.py',
    'PYMODULE'),
-  ('re',
+  ('linecache',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\re.py',
-   'PYMODULE'),
-  ('stat',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stat.py',
-   'PYMODULE'),
-  ('locale',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\locale.py',
-   'PYMODULE'),
-  ('weakref',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\weakref.py',
-   'PYMODULE'),
-  ('heapq',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\heapq.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\linecache.py',
    'PYMODULE'),
   ('sre_constants',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sre_constants.py',
    'PYMODULE'),
-  ('traceback',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\traceback.py',
-   'PYMODULE'),
-  ('types',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\types.py',
-   'PYMODULE'),
-  ('_collections_abc',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_collections_abc.py',
-   'PYMODULE'),
   ('functools',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\functools.py',
    'PYMODULE'),
-  ('linecache',
+  ('weakref',
    'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\linecache.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\enum.py',
-   'PYMODULE'),
-  ('reprlib',
-   'C:\\Users\\Abdelrahman '
-   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\reprlib.py',
+   'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\weakref.py',
    'PYMODULE'),
   ('os',
    'C:\\Users\\Abdelrahman '
