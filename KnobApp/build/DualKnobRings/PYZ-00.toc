@@ -1,4 +1,5 @@
-('D:\\Software Engineering\\Fortec\\KnobApp\\build\\DualKnobRings\\PYZ-00.pyz',
+('D:\\Software '
+ 'Engineering\\Fortec\\Knob_App\\KnobApp\\build\\DualKnobRings\\PYZ-00.pyz',
  [('PyQt5',
    'C:\\Users\\Abdelrahman '
    'Mohammed\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\__init__.py',
