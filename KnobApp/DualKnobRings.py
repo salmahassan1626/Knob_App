@@ -294,13 +294,27 @@ class GradientRingWidget(QWidget):
         painter.setFont(font)
         text = f"{self._value}"
         fm = painter.fontMetrics()
-        painter.drawText(
-            QRectF(
-                cx - R_inner, cy - 0.6 * fm.height(), 2 * R_inner, 0.9 * fm.height()
-            ),
-            Qt.AlignCenter,
-            text,
-        )
+        # painter.drawText(
+        #     QRectF(
+        #         cx - R_inner, cy - 0.6 * fm.height(), 2 * R_inner, 0.9 * fm.height()
+        #     ),
+        #     Qt.AlignCenter,
+        #     text,
+        # )
+        # ----- Math-based centered number drawing -----
+        text = str(self._value)
+        fm = painter.fontMetrics()
+
+        text_width = fm.horizontalAdvance(text)
+        text_height = fm.height()
+
+        # X: center text by pixel width
+        text_x = cx - text_width / 2
+
+        # Y: vertically centered (baseline-aware)
+        text_y = cy + text_height / 2 - fm.descent()
+
+        painter.drawText(QPointF(text_x, text_y), text)
 
         # # ================= DEBUG: EFFECTIVE KNOB AREA =================
         # # This shows the interaction radius (KNOB_RADIUS)
